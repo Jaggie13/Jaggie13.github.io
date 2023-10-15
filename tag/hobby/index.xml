@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hobby | Homepage</title>
+    <link>https://example.com/tag/hobby/</link>
+      <atom:link href="https://example.com/tag/hobby/index.xml" rel="self" type="application/rss+xml" />
+    <description>hobby</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>hobby</title>
+      <link>https://example.com/tag/hobby/</link>
+    </image>
+    
+    <item>
+      <title>The 21st Asian Xiangqi Championship</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Sun, 15 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;The 21st Asian Xiangqi Championship was held in Bangkok, Thailand on August 6~9, 2023. Japan Xiangqi Association assigned four athletes to the men&amp;rsquo;s team competition. The Japan team won 3 games (including 1 bye), 1 loss, and 7 points in 7 rounds, placing 11th out of 17 teams. The winner was the Chinese team.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://xiangqi-japan.com/asiacup2023-2/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;To know more details, please click here (Japanese site)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
